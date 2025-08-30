@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "Goa Beaches",
+    "category": "Beach",
+    "image": "/images/goa.jpeg",
+    "description": "Sun, sand, and vibrant nightlife along India's west coast."
+  },
+  {
+    "id": 2,
+    "title": "Manali Hills",
+    "category": "Adventure",
+    "image": "/images/manali.jpeg",
+    "description": "Snow-capped peaks, pine forests, and thrilling treks."
+  },
+  {
+    "id": 3,
+    "title": "Jaipur City",
+    "category": "Cultural",
+    "image": "/images/jaipur.jpeg",
+    "description": "The Pink City's palaces, forts, and rich traditions."
+  },
+  {
+    "id": 4,
+    "title": "Mumbai",
+    "category": "Urban",
+    "image": "/images/mumbai.jpeg",
+    "description": "India's buzzing financial capital with endless experiences."
+  },
+  {
+    "id": 5,
+    "title": "Kerala Backwaters",
+    "category": "Nature",
+    "image": "/images/kerala.jpeg",
+    "description": "Serene houseboat cruises through palm-fringed canals."
+  },
+  {
+    "id": 6,
+    "title": "Ladakh",
+    "category": "Adventure",
+    "image": "/images/ladakh.jpeg",
+    "description": "High-altitude deserts, monasteries, and starry skies."
+  },
+  {
+    "id": 7,
+    "title": "Hampi Ruins",
+    "category": "Cultural",
+    "image": "/images/hampi.jpeg",
+    "description": "UNESCO site with ancient temples and boulder-strewn landscapes."
+  },
+  {
+    "id": 8,
+    "title": "Andaman Islands",
+    "category": "Beach",
+    "image": "/images/andaman.jpeg",
+    "description": "Pristine beaches and crystal-clear waters for diving."
+  }
+]
