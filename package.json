@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.1",
   "type": "module",
-  "homepage": "https://sidhikthorat.github.io/Heal-Bharat-Task-2-Tours-and-Travel-Website",
+  "homepage": "https://sidhikthorat.github.io/Heal-Bharat-Task-2-Tours-and-Travel-Website/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
