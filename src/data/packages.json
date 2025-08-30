@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Goa Getaway",
+    "category": "Beach",
+    "image": "/images/goa.jpeg",
+    "description": "3 nights in North Goa with beach hopping and nightlife.",
+    "price": 12999,
+    "duration": "4D/3N",
+    "popularity": 95
+  },
+  {
+    "id": 2,
+    "title": "Manali",
+    "category": "Adventure",
+    "image": "/images/manali.jpeg",
+    "description": "5 days of trekking, river rafting, and local sightseeing.",
+    "price": 17999,
+    "duration": "5D/4N",
+    "popularity": 90
+  },
+  {
+    "id": 3,
+    "title": " Rajasthan - Jaipur",
+    "category": "Cultural",
+    "image": "/images/jaipur.jpeg",
+    "description": "Explore forts, palaces, and the bustling markets of Jaipur.",
+    "price": 14999,
+    "duration": "4D/3N",
+    "popularity": 88
+  },
+  {
+    "id": 4,
+    "title": "Kerala ",
+    "category": "Nature",
+    "image": "/images/kerala.jpeg",
+    "description": "Houseboat stay with backwater cruise and local cuisine.",
+    "price": 19999,
+    "duration": "5D/4N",
+    "popularity": 85
+  },
+  {
+    "id": 5,
+    "title": "Leh-Ladakh ",
+    "category": "Adventure",
+    "image": "/images/ladakh.jpeg",
+    "description": "High-altitude lakes, monasteries, and scenic drives.",
+    "price": 29999,
+    "duration": "6D/5N",
+    "popularity": 92
+  },
+  {
+    "id": 6,
+    "title": "Mumbai City Break",
+    "category": "Urban",
+    "image": "/images/mumbai.jpeg",
+    "description": "Iconic landmarks, street food tour, and Marine Drive sunset.",
+    "price": 10999,
+    "duration": "3D/2N",
+    "popularity": 80
+  },
+  {
+    "id": 7,
+    "title": "Andaman Beach Bliss",
+    "category": "Beach",
+    "image": "/images/andaman.jpeg",
+    "description": "Snorkeling, scuba diving, and white-sand beaches.",
+    "price": 25999,
+    "duration": "5D/4N",
+    "popularity": 87
+  },
+  {
+    "id": 8,
+    "title": "Hampi Heritage ",
+    "category": "Cultural",
+    "image": "/images/hampi.jpeg",
+    "description": "Guided tour of ancient ruins and temples.",
+    "price": 13999,
+    "duration": "3D/2N",
+    "popularity": 75
+  }
+]
